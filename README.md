@@ -1,7 +1,7 @@
 <h1 align="center">
   Ömer Faruk ALTIPARMAK 
   <br/> 
-  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=poppins&center=true&vCenter=true&lines=.NET+Developer"> 
+  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=poppins&center=true&vCenter=true&lines=.NET Developer;MsSQL;.NET%20Framework"> 
 </h1>
 <p align="center">
 <a href="https://twitter.com/" target="_blank">
